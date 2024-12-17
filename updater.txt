@@ -1,7 +1,7 @@
 {
-  "fnmods_update": [
+  "trsmods_update": [
     {
- "version":"9.62",
+ "version":"1.9.7",
  "title":"Update Disponible",
  "description":"RewhasApp Oficial V9.65
 
@@ -9,9 +9,9 @@ Base: 2.23 1.76
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Nuevo Systema de Actualización 
+New Update System 
 
- Actualización AntiBaneo disponible ",
+AntiBan update available",
 "download":"https://youtu.be/rY2otd2NacA"
 }
   ]
