@@ -1,18 +1,15 @@
 {
-  "trsmods_update": [
-    {
- "version":"1.9.7",
- "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+  "versionCode": 10,
+  "versionName": "1.0",
+  "Msg": "New update is available, to continue in our app please update it.
 
-Base: 2.23 1.76
+What's new:
+- Performance Improvements.
+- Bug Fixes.
+- New Features introduced.
+- Others minor changes.
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-New Update System 
-
-AntiBan update available",
-"download":"https://youtu.be/rY2otd2NacA"
-}
-  ]
-}
+Thanks for using",
+  "downloadLink": "https://t.me/@smalicode"
+  }
+  
